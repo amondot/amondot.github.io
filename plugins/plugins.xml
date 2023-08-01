@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet  type="text/xsl" href="./plugins.xsl" ?>
+<plugins>
+  <pyqgis_plugin name="HelloWorld" version="0.1">
+    <description><![CDATA[HelloWorld]]></description>
+    <about><![CDATA[HelloWorld]]></about>
+    <version>0.1</version>
+    <authorization_role/>
+    <trusted>True</trusted>
+    <qgis_minimum_version>3.0.0</qgis_minimum_version>
+    <qgis_maximum_version>3.99.0</qgis_maximum_version>
+    <homepage><![CDATA[http://homepage.com]]></homepage>
+    <file_name>hello_world_plugin-1.0.0.zip</file_name>
+    <icon>icons/default.png</icon>
+    <author_name><![CDATA[HelloWorld]]></author_name>
+    <download_url>http://qgis-repo.local:8008/plugins/packages/hello_world_plugin-1.0.0.zip</download_url>
+    <uploaded_by><![CDATA[Administrator]]></uploaded_by>
+    <create_date/>
+    <update_date>2023-08-01T16:16:28.202665</update_date>
+    <experimental>False</experimental>
+    <deprecated>False</deprecated>
+    <tracker><![CDATA[http://bugs.com]]></tracker>
+    <repository><![CDATA[http://repo.com]]></repository>
+    <changelog/>
+    <tags><![CDATA[python]]></tags>
+    <downloads>0</downloads>
+    <average_vote>0.0</average_vote>
+    <rating_votes>0</rating_votes>
+    <external_dependencies/>
+    <server>False</server>
+  </pyqgis_plugin>
+</plugins>
